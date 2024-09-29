@@ -33,3 +33,4 @@ C:\Users\VICTUS\Desktop\examOrderSystem\obj\Debug\net8.0\refint\examOrderSystem.
 C:\Users\VICTUS\Desktop\examOrderSystem\obj\Debug\net8.0\examOrderSystem.pdb
 C:\Users\VICTUS\Desktop\examOrderSystem\obj\Debug\net8.0\examOrderSystem.genruntimeconfig.cache
 C:\Users\VICTUS\Desktop\examOrderSystem\obj\Debug\net8.0\ref\examOrderSystem.dll
+C:\Users\VICTUS\Desktop\examOrderSystem\obj\Debug\net8.0\examOrderSystem.sourcelink.json
